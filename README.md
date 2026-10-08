@@ -1,28 +1,19 @@
 # Policy Comparison AI
 
-**Zion AI App Network — Batch 98: Fintech & Insurance AI**
+Part of the Zion App Network. **Current status: documented workflow concept, not a production AI engine.** This repository contains documentation, not an implemented policy analyzer. Previous claims of production readiness, API integration, SSO/RBAC and regulator-ready reporting were unsupported and have been removed.
 
-Insurance policy document analyzer — coverage extraction, exclusion flags, renewal comparison.
+## Start here
+- [Planning page](https://ziontechgroup.com/policy-comparison-ai/)
+- [Free local evidence workbench — policy mode](https://ziontechgroup.com/apps/insurance-evidence-workbench.html?mode=policy): record a synthetic example, owner, baseline, evidence gaps, reviewer and stop rule; download a plain-text brief. No upload, model inference, storage or email is performed by the workbench.
+- [Insurance and finance guide](https://ziontechgroup.com/apps/insurance-finance-guide.html)
+- [Free online Discovery](https://ziontechgroup.com/discovery/): instant on-page report; the same result is submitted for email delivery to the client and commercial@ziontechgroup.com. Provider acceptance is not confirmed inbox receipt.
 
-- 🌐 Live app: https://ziontechgroup.com/policy-comparison-ai/
-- 🗂️ Network directory: https://ziontechgroup.com/zion-app-network/
-- 🔎 Free AI Discovery: https://ziontechgroup.com/discovery/
-- 🏠 Homepage: https://ziontechgroup.com
+## Translated workbench
+[English](https://ziontechgroup.com/apps/insurance-evidence-workbench.html?mode=policy) · [Português](https://ziontechgroup.com/pt/apps/insurance-evidence-workbench.html?mode=policy) · [Español](https://ziontechgroup.com/es/apps/insurance-evidence-workbench.html?mode=policy) · [Français](https://ziontechgroup.com/fr/apps/insurance-evidence-workbench.html?mode=policy) · [Deutsch](https://ziontechgroup.com/de/apps/insurance-evidence-workbench.html?mode=policy)
 
-## Key features
-- Production-ready AI workflow with human-in-the-loop review
-- API-first design — integrates with core banking, policy admin and ERP systems
-- Audit trail, explainability and regulator-ready reporting
-- Enterprise security: SSO, RBAC, encryption at rest and in transit
+## Related apps and hubs
+[Underwriting Copilot AI](https://ziontechgroup.com/underwriting-copilot-ai/) · [Claims Automation AI](https://ziontechgroup.com/claims-automation-ai/) · [Cash Flow Forecaster](https://ziontechgroup.com/cash-flow-forecaster/) · [AR Collections Copilot](https://ziontechgroup.com/ar-collections-copilot/) · [Fraud Transaction Monitor](https://ziontechgroup.com/fraud-transaction-monitor/) · [AML Screening AI](https://ziontechgroup.com/aml-screening-ai/)
 
-## Batch 98 — Fintech & Insurance AI (interlinks)
-- [Fraud Transaction Monitor](https://ziontechgroup.com/fraud-transaction-monitor/) — [repo](https://github.com/Zion-support/fraud-transaction-monitor)
-- [Claims Automation AI](https://ziontechgroup.com/claims-automation-ai/) — [repo](https://github.com/Zion-support/claims-automation-ai)
-- [Underwriting Copilot AI](https://ziontechgroup.com/underwriting-copilot-ai/) — [repo](https://github.com/Zion-support/underwriting-copilot-ai)
-- [AML Screening AI](https://ziontechgroup.com/aml-screening-ai/) — [repo](https://github.com/Zion-support/aml-screening-ai)
-- [Cash Flow Forecaster](https://ziontechgroup.com/cash-flow-forecaster/) — [repo](https://github.com/Zion-support/cash-flow-forecaster)
-- [AR Collections Copilot](https://ziontechgroup.com/ar-collections-copilot/) — [repo](https://github.com/Zion-support/ar-collections-copilot)
+[Homepage](https://ziontechgroup.com/) · [Network directory](https://ziontechgroup.com/zion-app-network/) · [Master repository](https://github.com/Zion-support/zion-app-network)
 
-## About Zion Tech Group
-Zion Tech Group builds AI-powered IT services, field engineering and white-label AI Service Desk solutions worldwide.
-Get your free AI Discovery assessment: https://ziontechgroup.com/discovery/ — results delivered instantly to you and our commercial team.
+Do not use this concept or checklist to determine coverage, set premiums or make regulated decisions. Checklist completeness is not a risk score. Qualified human review and data permissions are required before implementation.
